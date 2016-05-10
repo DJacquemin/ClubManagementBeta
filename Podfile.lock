@@ -1,0 +1,13 @@
+PODS:
+  - FSCalendar (2.1.1)
+  - NGSPopoverView (1.0.2)
+
+DEPENDENCIES:
+  - FSCalendar (~> 2.1)
+  - NGSPopoverView (~> 1.0)
+
+SPEC CHECKSUMS:
+  FSCalendar: 04dc531f06fbde8a8e5b7394e9d4edebd45a591f
+  NGSPopoverView: 243a140f7d1abe5ee8c53b8401176b5f5237bc63
+
+COCOAPODS: 0.39.0

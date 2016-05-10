@@ -1,0 +1,5 @@
+XSym
+0052
+240c5bb8304383a783c17adb8b08b40b
+../../../NGSPopoverView/Pod/Classes/NGSPopoverView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

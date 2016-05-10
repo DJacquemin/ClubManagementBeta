@@ -1,0 +1,5 @@
+XSym
+0057
+77487086df40bdb50b9be7c253ece4a2
+../../../FSCalendar/FSCalendar/FSCalendarEventIndicator.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
